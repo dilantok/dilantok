@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=180&section=header&text=Hi%20I'm%20DILAN%20🎀&fontSize=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=180&section=header&text=Hi%20I'm%20Dilan%20🎀&fontSize=40&fontColor=ffffff" />
 
 ### 💗 Computer Science & AI student | future Robotics Software Engineer 🤖✨
 Brighton, UK 🇬🇧
