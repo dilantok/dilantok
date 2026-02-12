@@ -2,9 +2,10 @@
 
 
 <div align="center">
-
-##  Navigating toward my dream: building intelligent robots that feel alive 🌊
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=000000&center=true&vCenter=true&width=950&lines=Navigating+toward+my+dream%3A+building+intelligent+robots+that+feel+alive+%F0%9F%8C%8A" alt="Typing animation" />
+</p>
+  
 🎓 Computer Science & Artificial Intelligence  
 🤖 Future Robotics Software Engineer  
 
