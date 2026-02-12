@@ -21,6 +21,15 @@
 🎨 I love drawing and creating pixel art  
 
 ---
+## ⭐ Featured Project
+
+### 🤖 Chopper Face – OLED Robotic Expression System
+
+An interactive robotic face built using ESP32 and a 128x64 OLED display.  
+Features animated expressions, modular design, and embedded control logic.
+
+🔗 **Repository:**  
+https://github.com/dilantok/Chopper-Face-Oled-Display  
 
 ## 🌊 Robotics Journey
 
