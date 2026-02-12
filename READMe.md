@@ -1,5 +1,5 @@
-<!-- Gradient Header (Orange → Ocean Blue → Soft Pink) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff914d,100:4da6ff&height=230&section=header&text=Hi!%20I%20am%20Dilan%20✨&fontSize=38&fontColor=ffffff&animation=fadeIn&reversal=true" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6d5,50:ff914d,100:ff4da6&height=230&section=header&text=Hi!%20I%20am%20Dilan%20✨&fontSize=38&fontColor=ffffff&animation=fadeIn&reversal=true" />
+
 
 <div align="center">
 
@@ -15,7 +15,7 @@
 ## 🍊 About Me
 
 🌊 I study Computer Science & AI  
-🌸 I love coding and turning ideas into real systems
+🌸 I love coding and turning ideas into real systems  
 🤖 I build embedded + AI mini robotics projects  
 🎨 I love drawing and creating pixel art  
 
@@ -68,4 +68,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:4da6ff&height=150&section=footer"/>
+<!-- Footer -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6d5,50:ff914d,100:ff4da6&height=170&section=footer&reversal=true" />
+</div>
