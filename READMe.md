@@ -1,5 +1,5 @@
 <!-- Gradient Header (Orange → Ocean Blue → Soft Pink) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff914d,100:4da6ff&height=230&section=header&text=Hi%20I%20am%20Dilan%20✨&fontSize=38&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff914d,100:4da6ff&height=230&section=header&text=Hi!%20I%20am%20Dilan%20✨&fontSize=38&fontColor=ffffff" />
 
 <div align="center">
 
