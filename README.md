@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=180&section=header&text=Hi%20I'm%20YOURNAME%20🎀&fontSize=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=180&section=header&text=Hi%20I'm%20DILAN%20🎀&fontSize=40&fontColor=ffffff" />
 
 ### 💗 Computer Science & AI student | future Robotics Software Engineer 🤖✨
 Brighton, UK 🇬🇧
@@ -14,7 +14,7 @@ Brighton, UK 🇬🇧
 - 🎓 Studying **Computer Science & Artificial Intelligence** (Undergraduate)
 - 🤖 Building toward a career in **Robotics Software Engineering**
 - 🧠 Interested in: **embedded systems, computer vision, ML for robotics, human-robot interaction**
-- ✨ Currently learning: **Python, C/C++, ROS basics, ESP32/Arduino projects**
+- ✨ Currently learning: **Python, Java, C/C++, ROS basics, ESP32/Arduino projects**
 - 🎯 Goal: create a cute **desktop robotic companion** (like a mini companion pet!)
 
 ---
