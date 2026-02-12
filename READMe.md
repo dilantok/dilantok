@@ -1,9 +1,9 @@
 <!-- Gradient Header (Orange → Ocean Blue → Soft Pink) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff914d,100:4da6ff&height=230&section=header&text=Dilan%20🌊%20Future%20Robotics%20Engineer%20🍊&fontSize=36&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff914d,100:4da6ff&height=230&section=header&text=Hi%20I%20am%20Dilan%20✨&fontSize=38&fontColor=ffffff" />
 
 <div align="center">
 
-## 🌊 “Navigating toward my dream: building intelligent robots that feel alive.” 🌸
+##  Navigating toward my dream: building intelligent robots that feel alive 🌊
 
 🎓 Computer Science & Artificial Intelligence  
 🤖 Future Robotics Software Engineer  
@@ -12,10 +12,10 @@
 
 ---
 
-## 🌸 About Me
+## 🍊 About Me
 
 🌊 I study Computer Science & AI  
-🍊 Inspired by strategy, independence & growth  
+🌸 I love coding and turning ideas into real systems
 🤖 I build embedded + AI mini robotics projects  
 🎨 I love drawing and creating pixel art  
 
@@ -24,9 +24,9 @@
 ## 🌊 Robotics Journey
 
 🧠 Currently learning:
-- Python
+- Python  
+- C++
 - Java
-- C++  
 - Embedded Systems (ESP32 / Arduino)  
 - AI fundamentals  
 
@@ -41,6 +41,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/Python-4da6ff?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ff69b4?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-ff914d?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/ESP32-ff69b4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Robotics-4da6ff?style=for-the-badge"/>
@@ -53,7 +54,7 @@
 
 🎨 Sketching & digital illustration  
 🧩 Pixel art projects  
-🌐 Portfolio: https://www.pixilart.com/ddln
+🌐 Pixel Art Portfolio: https://www.pixilart.com/ddln  
 
 ---
 
@@ -68,4 +69,3 @@
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:4da6ff&height=150&section=footer"/>
-
