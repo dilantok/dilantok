@@ -1,4 +1,4 @@
-<!-- Header -->
+l<!-- Header -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=180&section=header&text=Hi%20I'm%20Dilan%20🎀&fontSize=40&fontColor=ffffff" />
@@ -46,8 +46,8 @@ Brighton, UK 🇬🇧
 
 ## 💌 let’s connect
 <p>
-  <a href="https://www.linkedin.com/in/YOURLINK"><img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOURMAIL"><img src="https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/dilan-t-6bb922293/"><img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ 
 </p>
 
 <!-- Footer -->
