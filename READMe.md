@@ -1,56 +1,69 @@
-l<!-- Header -->
+<!-- Nami Inspired Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff914d&height=220&section=header&text=Dilan%20🍊%20Future%20Robotics%20Engineer&fontSize=38&fontColor=ffffff" />
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=180&section=header&text=Hi%20I'm%20Dilan%20🎀&fontSize=40&fontColor=ffffff" />
-
-### 💗 Computer Science & AI student | future Robotics Software Engineer 🤖✨
-Brighton, UK 🇬🇧
+### 🌊 Computer Science & AI Student  
+### 🍊 Navigating My Way Into Robotics  
+### 🤖 Building Smart & Cute Machines  
 
 </div>
 
 ---
 
-## 🌸 about me
-- 🎓 Studying **Computer Science & Artificial Intelligence** (Undergraduate)
-- 🤖 Building toward a career in **Robotics Software Engineering**
-- 🧠 Interested in: **embedded systems, computer vision, ML for robotics, human-robot interaction**
-- ✨ Currently learning: **Python, Java, C/C++, ROS basics, ESP32/Arduino projects**
-- 🎯 Goal: create a cute **desktop robotic companion** (like a mini companion pet!)
-
----
-
-## 🎀 future goals in robotics
-- ✅ Get confident with **ROS2 + sensor data** (IMU / camera / distance sensors)
-- ✅ Build projects that combine **hardware + AI**
-- ✅ Learn **path planning + control** (PID, basic kinematics)
-- ✅ Ship a portfolio: small robots + demos + clean GitHub docs
-
----
-
-## 💖 tech stack
-<p>
-  <img src="https://img.shields.io/badge/Python-ff69b4?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-ff69b4?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP32-ff69b4?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-ff69b4?style=for-the-badge&logo=arduino&logoColor=white" />
-</p>
-
----
-
-## 🌷 projects i’m working on
-- 🐾 **Desktop Robotic Companion** — expressions on OLED, buttons, buzzer, future: voice + AI
-- ⏱️ **Pomodoro Timer + OLED UI** — simple but polished, good documentation
-- 🧩 **Small robotics experiments** — sensors, servos, animations
-
----
-
-## 💌 let’s connect
-<p>
-  <a href="https://www.linkedin.com/in/dilan-t-6bb922293/"><img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- 
-</p>
-
-<!-- Footer -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer" />
+
+## 🧭 About Me
+
+🎓 Studying Computer Science & Artificial Intelligence  
+🌊 Inspired by strategy, intelligence, and independence  
+🤖 Future Robotics Software Engineer  
+🍊 Currently building: AI-based Desktop Robotic Companion  
+
 </div>
+
+---
+
+## 🌸 My Robotics Journey
+
+🧠 Learning:
+- Python
+- Java
+- C++
+- Embedded Systems (ESP32 / Arduino)
+- Control systems basics
+- AI for robotics
+
+⚙️ Future Goals:
+- Master ROS2
+- Combine hardware + machine learning
+- Build expressive companion robots
+- Create emotionally interactive AI systems
+
+---
+
+## 🍊 Tech Stack (Nami Edition)
+
+<p>
+  <img src="https://img.shields.io/badge/Python-ff914d?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-ff914d?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP32-ff914d?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Robotics-ff914d?style=for-the-badge"/>
+</p>
+
+---
+
+## 🌊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&title_color=ff914d&icon_color=ff914d&text_color=ffffff&bg_color=0d1117&border_color=ff914d)
+
+---
+
+<div align="center">
+
+🍊 “Navigating toward my dream: building intelligent robots that feel alive.” 🌊
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff914d&height=150&section=footer"/>
+
