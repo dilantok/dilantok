@@ -21,7 +21,7 @@
 🎨 I love drawing and creating pixel art  
 
 ---
-## ⭐ Featured Project <img src="assets/chopper.png" width="28" />
+## ⭐ Featured Project <img src="assets/99039-chopper-happy.png" width="28" />
 
 ### 🌸 Chopper Face – OLED Robotic Expression System 
 
