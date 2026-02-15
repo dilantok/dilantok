@@ -17,7 +17,7 @@
 ## 🍊 About Me
 
 🌊 I study Computer Science & AI  
-🌸 I love coding and turning ideas into real systems  
+👩🏼‍💻 I love coding and turning ideas into real systems  
 🤖 I build embedded + AI mini robotics projects  
 🎨 I love drawing and creating pixel art  
 
