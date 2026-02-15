@@ -3,15 +3,8 @@
 
 <div align="center">
 <p align="center">
-  <!-- Light mode -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=000000&center=true&vCenter=true&width=950&lines=Navigating+toward+my+dream%3A+building+intelligent+robots+that+feel+alive" 
-       alt="Typing animation" 
-       media="(prefers-color-scheme: light)" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FF4DA6&center=true&vCenter=true&width=950&lines=Navigating+toward+my+dream%3A+building+intelligent+robots+that+feel+alive+%F0%9F%8C%8A" alt="Typing animation" />
 
-  <!-- Dark mode -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FFFFFF&center=true&vCenter=true&width=950&lines=Navigating+toward+my+dream%3A+building+intelligent+robots+that+feel+alive" 
-       alt="Typing animation" 
-       media="(prefers-color-scheme: dark)" />
 </p>
   
 🎓 Computer Science & Artificial Intelligence  
