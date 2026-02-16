@@ -32,7 +32,8 @@ Features animated expressions, modular design, and embedded control logic.
 🔗 **Repository:**  
 https://github.com/dilantok/Chopper-Face-Oled-Display  
 
-## 🌊 Robotics Journey
+## 🤖 Coding & Robotics Journey
+
 
 🧠 Currently learning:
 - Python  
