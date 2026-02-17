@@ -80,7 +80,6 @@ https://github.com/dilantok/Chopper-Face-Oled-Display
 
 ---
 
-<!-- Footer -->
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6d5,50:ff914d,100:ff4da6&height=170&section=footer&reversal=true" />
 </div>
