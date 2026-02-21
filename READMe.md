@@ -70,7 +70,7 @@ https://github.com/dilantok/Chopper-Face-Oled-Display
 
 ---
 
-## 💌 Let's Connect
+## 💌 Let's Connect  
 
 <p>
   <a href="https://www.linkedin.com/in/dilan-t-6bb922293/">
